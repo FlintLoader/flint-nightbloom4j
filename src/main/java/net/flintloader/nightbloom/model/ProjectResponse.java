@@ -1,4 +1,4 @@
-package com.hypherionmc.nightbloom.model;
+package net.flintloader.nightbloom.model;
 
 import lombok.Getter;
 
@@ -16,6 +16,7 @@ public class ProjectResponse {
     private String slug;
     private String description;
     private String logo;
+    private String body;
     private ProjectLinks links;
     private int downloads;
     private List<FileSummary> files;

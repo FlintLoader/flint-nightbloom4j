@@ -1,10 +1,10 @@
-package com.hypherionmc.nightbloom.client;
+package net.flintloader.nightbloom.client;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import com.hypherionmc.nightbloom.client.agent.UserAgent;
-import com.hypherionmc.nightbloom.model.ProjectMeta;
-import com.hypherionmc.nightbloom.model.StandardResponse;
+import net.flintloader.nightbloom.client.agent.UserAgent;
+import net.flintloader.nightbloom.model.ProjectMeta;
+import net.flintloader.nightbloom.model.StandardResponse;
 import okhttp3.*;
 
 import java.io.File;
@@ -17,7 +17,7 @@ import java.io.IOException;
 public abstract class HttpClient {
 
     // Private variables, mostly for internal use
-    private final String API_BASE = "https://api.nightbloom.cc";
+    private final String API_BASE = "https://modulesapi.flintloader.net";
 
     private final String baseUrl;
     private final UserAgent agent;

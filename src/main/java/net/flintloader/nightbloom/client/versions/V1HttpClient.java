@@ -1,8 +1,8 @@
-package com.hypherionmc.nightbloom.client.versions;
+package net.flintloader.nightbloom.client.versions;
 
-import com.hypherionmc.nightbloom.NightBloom4J;
-import com.hypherionmc.nightbloom.client.HttpClient;
-import com.hypherionmc.nightbloom.client.agent.UserAgent;
+import net.flintloader.nightbloom.NightBloom4J;
+import net.flintloader.nightbloom.client.HttpClient;
+import net.flintloader.nightbloom.client.agent.UserAgent;
 
 /**
  * @author HypherionSA

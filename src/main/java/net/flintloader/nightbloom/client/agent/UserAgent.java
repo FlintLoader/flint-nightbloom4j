@@ -1,4 +1,4 @@
-package com.hypherionmc.nightbloom.client.agent;
+package net.flintloader.nightbloom.client.agent;
 
 import lombok.Builder;
 

@@ -1,9 +1,9 @@
-package com.hypherionmc.nightbloom;
+package net.flintloader.nightbloom;
 
-import com.hypherionmc.nightbloom.client.HttpClient;
-import com.hypherionmc.nightbloom.client.agent.UserAgent;
-import com.hypherionmc.nightbloom.client.requests.ProjectsEndpoint;
-import com.hypherionmc.nightbloom.client.versions.V1HttpClient;
+import net.flintloader.nightbloom.client.HttpClient;
+import net.flintloader.nightbloom.client.agent.UserAgent;
+import net.flintloader.nightbloom.client.requests.ProjectsEndpoint;
+import net.flintloader.nightbloom.client.versions.V1HttpClient;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NonNull;

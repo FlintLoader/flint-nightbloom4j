@@ -1,11 +1,11 @@
-package com.hypherionmc.nightbloom.client.requests;
+package net.flintloader.nightbloom.client.requests;
 
-import com.hypherionmc.nightbloom.NightBloom4J;
-import com.hypherionmc.nightbloom.client.HttpClient;
-import com.hypherionmc.nightbloom.model.ProjectFile;
-import com.hypherionmc.nightbloom.model.ProjectMeta;
-import com.hypherionmc.nightbloom.model.ProjectResponse;
-import com.hypherionmc.nightbloom.model.StandardResponse;
+import net.flintloader.nightbloom.NightBloom4J;
+import net.flintloader.nightbloom.client.HttpClient;
+import net.flintloader.nightbloom.model.ProjectFile;
+import net.flintloader.nightbloom.model.ProjectMeta;
+import net.flintloader.nightbloom.model.ProjectResponse;
+import net.flintloader.nightbloom.model.StandardResponse;
 import lombok.RequiredArgsConstructor;
 
 import java.io.File;

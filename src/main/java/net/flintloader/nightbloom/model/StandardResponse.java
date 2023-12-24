@@ -1,4 +1,4 @@
-package com.hypherionmc.nightbloom.model;
+package net.flintloader.nightbloom.model;
 
 import com.google.gson.Gson;
 import lombok.Getter;

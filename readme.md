@@ -2,7 +2,7 @@
 
 ***
 
-A java library to interact with our Snapshots platform, [Nightbloom](https://nightbloom.cc)
+A java library to interact with our Modules platform, [Nightbloom](https://modules.flintloader.net)
 
 ***
 
